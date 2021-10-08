@@ -1,2 +1,2 @@
-# demo-stock-app2
+# demo-stock-app
 Created with CodeSandbox
