@@ -9,7 +9,7 @@ function Navbar() {
     <div>
       <nav className="navbar">
         <Link to="/" className="navbar-logo">
-          <h1>EPIC</h1>
+          <h4>STOCK WATCH</h4>
         </Link>
         <div className="menu-items">
           <Button2 />
